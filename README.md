@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-:mans_shoe:
 
-Tech
+
+:mans_shoe:Tech
+
