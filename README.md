@@ -18,13 +18,12 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 <h3 align="left">Tools:</h3>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/parksangsoo/parksangsoo/assets/37687621/a4258a52-b1fb-42d6-84f6-f35532ccd6f5" alt="firebase" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="(https://github.com/parksangsoo/parksangsoo/assets/37687621/a75b5dda-bce8-4b22-b726-612e33051018" alt="firebase" width="40" height="40"/> </a>
 
 
 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parksangsoo&show_icons=true&locale=en&layout=compact" alt="parksangsoo" /></p>
-
 
 
 
